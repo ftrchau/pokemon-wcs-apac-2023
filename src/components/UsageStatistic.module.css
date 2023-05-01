@@ -1,0 +1,43 @@
+.pokemontitle {
+  float: left;
+  width: 190px;
+}
+.statisticwrapper {
+  overflow: hidden;
+}
+.ProgressBarContainer {
+  width: 1000px !important;
+}
+.progressInterval {
+  background-color: white;
+}
+.IndividualProgress {
+  right: 15px !important;
+  background-color: white;
+}
+
+.testInterval {
+  background-image: linear-gradient(
+    90deg,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white,
+    blue,
+    white
+  ) !important;
+}

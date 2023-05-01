@@ -1,0 +1,25 @@
+.pokemonContainer {
+  position: relative;
+  width: 100px;
+  height: 90px;
+}
+
+.shadowIcon {
+  position: relative;
+  left: -30px;
+  height: 30%;
+  width: 30%;
+}
+
+.purifyIcon {
+  position: relative;
+  left: -30px;
+  height: 30%;
+  width: 30%;
+}
+
+.pokemonImage {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
